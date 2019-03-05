@@ -1,32 +1,34 @@
-#include <unordered_map>
 #include <algorithm>
 #include <iostream>
 
 using namespace std;
+int char_2pos[128];
+
 class Solution {
 public:
 	int lengthOfLongestSubstring(string s)
 	{
-		int last_max = 0;
-		int current_max = 0;
-		unordered_map<char, int> char_2pos;
+		size_t last_max = 0;
+		size_t current_max = 0;
 		
 		for(size_t i = 0; i < s.size(); i++)
 		{
-			char c = s[i];
-			if(char_2pos.find(c) == char_2pos.end())
+			if(s.size() < 1)
+				return 0;
+
+			int c = s[i];
+			if(char_2pos[c] == 0)
 			{
-				char_2pos[c] = i;
 				last_max += 1;
 
 			}
 			else
 			{
-				last_max = i - char_2pos[c];
-				char_2pos[c] = i;
+				last_max = min(i + 1 - char_2pos[c], last_max + 1);
 
 			}
 
+			char_2pos[c] = i + 1;
 			current_max = max(current_max, last_max);
 		}
 		return current_max;
@@ -35,5 +37,5 @@ public:
 
 int main()
 {
-	cout << "length is " << Solution().lengthOfLongestSubstring("pwwkew") << endl;
+	cout << "length is " << Solution().lengthOfLongestSubstring("cdd") << endl;
 }
