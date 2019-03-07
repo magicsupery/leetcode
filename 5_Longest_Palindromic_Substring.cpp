@@ -14,36 +14,33 @@ class Solution
 			size_t max_end_p = 0;
 			size_t start_p = 0;
 			size_t end_p = 0;
-			bool check = true;
-			for(size_t i = 1; i< s.size(); i++, check=true)
+			bool continued = true;
+			for(size_t i = 1; i< s.size(); i++)
 			{
+
+
 				if(i == end_p + 1)
 				{
-					if(s[i] == s[start_p])
-					{
-						end_p ++;
-						check = false;
-					}
-					else if(start_p > 0 and s[i] == s[start_p - 1])
+
+					if (start_p > 0 and s[i] == s[start_p - 1])
 					{
 						start_p --;
 						end_p ++;
-						check = false;
+						continued = false;
+					}
+					else if (continued and s[i] == s[end_p])
+					{
+						end_p = i;
+						continued = true;
 					}
 				}	
-				
-				if(check)
+				else
 				{
 					if(i > 1 and s[i] == s[i - 2])
 					{
 						start_p = i - 2;
 						end_p = i;
-
-					}
-					else if(s[i] == s[i - 1])
-					{
-						start_p = i - 1;
-						end_p = i;
+						continued = false;
 					}
 				}
 
@@ -61,5 +58,5 @@ class Solution
 
 int main()
 {
-	cout << "output is " << Solution().longestPalindrome("ababd") << endl;
+	cout << "output is " << Solution().longestPalindrome("ababc") << endl;
 }
