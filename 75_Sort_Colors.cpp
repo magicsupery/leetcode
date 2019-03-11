@@ -23,7 +23,10 @@ class Solution {
 				
 				auto current_color_num = (current_color == 0)? color_num[0]: color_num[0] + color_num[1];
 				if(current_color_num == i)
+				{
+					color_num[current_color] += 1;
 					continue;
+				}
 			
 				std::swap(nums[current_color_num], nums[i]);
 				
@@ -32,7 +35,10 @@ class Solution {
 					current_color_num = color_num[0] + color_num[1];
 					
 					if(current_color_num == i)
+					{
+						color_num[current_color] += 1;
 						continue;
+					}
 				
 					std::swap(nums[current_color_num], nums[i]);
 				}
@@ -48,7 +54,7 @@ class Solution {
 
 int main()
 {
-	vector<int> nums = {0, 0};
+	vector<int> nums = {0, 0, 1};
 	Solution().sortColors(nums);
 
 	cout << "output is ";
