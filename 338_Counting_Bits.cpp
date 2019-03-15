@@ -13,20 +13,11 @@ class Solution {
 			}	
 			vector<int> res(num + 1, 0);
 
-			int last_first = 1;
 			int first = 1;
 			for(int i = 1; i <= num; i++)
 			{
-				if( i == first)
-				{
-					res[i] = 1;
-					last_first = first;
-					first *= 2;
-				}
-				else
-				{
-					res[i] = res[last_first] + res[i - last_first];
-				}
+				first = ( i == 2 * first)? i : first;
+				res[i] = 1 + res[i - first];
 			}
 
 			return res;
