@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="UnitTest"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="126_WORD_LADDER_II.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/126_WORD_LADDER_II.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 126_WORD_LADDER_II.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="126_WORD_LADDER_II.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/126_WORD_LADDER_II.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 126_WORD_LADDER_II.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="146_LRU_CACHE.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/146_LRU_CACHE.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 146_LRU_CACHE.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="146_LRU_CACHE.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/146_LRU_CACHE.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 146_LRU_CACHE.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="151_Reverse_Words_in_a_String.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/151_Reverse_Words_in_a_String.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 151_Reverse_Words_in_a_String.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="151_Reverse_Words_in_a_String.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/151_Reverse_Words_in_a_String.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 151_Reverse_Words_in_a_String.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12_INTEGER_TO_ROMAN.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/12_INTEGER_TO_ROMAN.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 12_INTEGER_TO_ROMAN.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12_INTEGER_TO_ROMAN.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/12_INTEGER_TO_ROMAN.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 12_INTEGER_TO_ROMAN.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="165_COMPARE_VERSION_NUMBERS.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/165_COMPARE_VERSION_NUMBERS.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 165_COMPARE_VERSION_NUMBERS.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="165_COMPARE_VERSION_NUMBERS.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/165_COMPARE_VERSION_NUMBERS.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 165_COMPARE_VERSION_NUMBERS.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="133_CLONE_GRAPH.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/133_CLONE_GRAPH.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 133_CLONE_GRAPH.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="133_CLONE_GRAPH.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/133_CLONE_GRAPH.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 133_CLONE_GRAPH.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1324_PRINT_WORDS_VERTICALLY.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/1324_PRINT_WORDS_VERTICALLY.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 1324_PRINT_WORDS_VERTICALLY.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1324_PRINT_WORDS_VERTICALLY.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/1324_PRINT_WORDS_VERTICALLY.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 1324_PRINT_WORDS_VERTICALLY.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="148_SORT_LIST.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/148_SORT_LIST.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 148_SORT_LIST.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="148_SORT_LIST.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/148_SORT_LIST.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 148_SORT_LIST.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="208_Implement_Trie.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/208_Implement_Trie.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 208_Implement_Trie.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="208_Implement_Trie.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/208_Implement_Trie.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 208_Implement_Trie.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2_ADD_TWO_NUMBERS.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/2_ADD_TWO_NUMBERS.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_ADD_TWO_NUMBERS.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2_ADD_TWO_NUMBERS.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/2_ADD_TWO_NUMBERS.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_ADD_TWO_NUMBERS.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="338_Counting_Bits.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/338_Counting_Bits.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 338_Counting_Bits.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="338_Counting_Bits.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/338_Counting_Bits.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 338_Counting_Bits.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_Longest_Substring_Without_Repeating_Characters.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/3_Longest_Substring_Without_Repeating_Characters.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_Longest_Substring_Without_Repeating_Characters.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_Longest_Substring_Without_Repeating_Characters.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/3_Longest_Substring_Without_Repeating_Characters.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_Longest_Substring_Without_Repeating_Characters.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="355_DESIGN_TWITTER.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/355_DESIGN_TWITTER.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 355_DESIGN_TWITTER.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="355_DESIGN_TWITTER.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/355_DESIGN_TWITTER.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 355_DESIGN_TWITTER.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="380_INSERT_DELETE_GETRANDOM_O1.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/380_INSERT_DELETE_GETRANDOM_O1.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 380_INSERT_DELETE_GETRANDOM_O1.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="380_INSERT_DELETE_GETRANDOM_O1.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/380_INSERT_DELETE_GETRANDOM_O1.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 380_INSERT_DELETE_GETRANDOM_O1.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="45_JUMP_GAME_II.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/45_JUMP_GAME_II.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 45_JUMP_GAME_II.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="45_JUMP_GAME_II.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/45_JUMP_GAME_II.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 45_JUMP_GAME_II.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="55_JUMP_GAME.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/55_JUMP_GAME.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 55_JUMP_GAME.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="55_JUMP_GAME.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/55_JUMP_GAME.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 55_JUMP_GAME.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_Longest_Palindromic_Substring.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/5_Longest_Palindromic_Substring.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 5_Longest_Palindromic_Substring.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_Longest_Palindromic_Substring.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/5_Longest_Palindromic_Substring.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 5_Longest_Palindromic_Substring.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="622_DESIGN_CIRCULAR_QUEUE.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/622_DESIGN_CIRCULAR_QUEUE.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 622_DESIGN_CIRCULAR_QUEUE.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="622_DESIGN_CIRCULAR_QUEUE.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/622_DESIGN_CIRCULAR_QUEUE.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 622_DESIGN_CIRCULAR_QUEUE.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="79_World_Search.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/79_World_Search.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 79_World_Search.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="79_World_Search.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/79_World_Search.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 79_World_Search.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="6_ZigZag_Conversion.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/6_ZigZag_Conversion.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 6_ZigZag_Conversion.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="6_ZigZag_Conversion.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/6_ZigZag_Conversion.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 6_ZigZag_Conversion.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="75_Sort_Colors.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/75_Sort_Colors.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 75_Sort_Colors.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="75_Sort_Colors.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/75_Sort_Colors.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 75_Sort_Colors.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="78_Subsets.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/78_Subsets.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 78_Subsets.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="78_Subsets.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/78_Subsets.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 78_Subsets.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="82_Remove_Duplicates_from_Sorted_List_II.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/82_Remove_Duplicates_from_Sorted_List_II.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 82_Remove_Duplicates_from_Sorted_List_II.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="82_Remove_Duplicates_from_Sorted_List_II.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/82_Remove_Duplicates_from_Sorted_List_II.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 82_Remove_Duplicates_from_Sorted_List_II.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="83_Remove_Duplicates_from_Sorted_List.test">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/83_Remove_Duplicates_from_Sorted_List.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 83_Remove_Duplicates_from_Sorted_List.test"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="83_Remove_Duplicates_from_Sorted_List.test/fast">
+				<Option output="E:/git_proj/leetcode/cmake-build-debug/83_Remove_Duplicates_from_Sorted_List.test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/software/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 83_Remove_Duplicates_from_Sorted_List.test/fast"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="E:/git_proj/leetcode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/software/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/git_proj/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/git_proj/leetcode/126_WORD_LADDER_II.cpp">
+			<Option target="126_WORD_LADDER_II.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/12_INTEGER_TO_ROMAN.cpp">
+			<Option target="12_INTEGER_TO_ROMAN.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/1324_PRINT_WORDS_VERTICALLY.cpp">
+			<Option target="1324_PRINT_WORDS_VERTICALLY.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/133_CLONE_GRAPH.cpp">
+			<Option target="133_CLONE_GRAPH.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/146_LRU_CACHE.cpp">
+			<Option target="146_LRU_CACHE.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/148_SORT_LIST.cpp">
+			<Option target="148_SORT_LIST.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/151_Reverse_Words_in_a_String.cpp">
+			<Option target="151_Reverse_Words_in_a_String.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/165_COMPARE_VERSION_NUMBERS.cpp">
+			<Option target="165_COMPARE_VERSION_NUMBERS.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/208_Implement_Trie.cpp">
+			<Option target="208_Implement_Trie.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/2_ADD_TWO_NUMBERS.cpp">
+			<Option target="2_ADD_TWO_NUMBERS.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/338_Counting_Bits.cpp">
+			<Option target="338_Counting_Bits.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/355_DESIGN_TWITTER.cpp">
+			<Option target="355_DESIGN_TWITTER.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/380_INSERT_DELETE_GETRANDOM_O1.cpp">
+			<Option target="380_INSERT_DELETE_GETRANDOM_O1.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/3_Longest_Substring_Without_Repeating_Characters.cpp">
+			<Option target="3_Longest_Substring_Without_Repeating_Characters.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/45_JUMP_GAME_II.cpp">
+			<Option target="45_JUMP_GAME_II.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/55_JUMP_GAME.cpp">
+			<Option target="55_JUMP_GAME.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/5_Longest_Palindromic_Substring.cpp">
+			<Option target="5_Longest_Palindromic_Substring.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/622_DESIGN_CIRCULAR_QUEUE.cpp">
+			<Option target="622_DESIGN_CIRCULAR_QUEUE.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/6_ZigZag_Conversion.cpp">
+			<Option target="6_ZigZag_Conversion.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/75_Sort_Colors.cpp">
+			<Option target="75_Sort_Colors.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/78_Subsets.cpp">
+			<Option target="78_Subsets.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/79_World_Search.cpp">
+			<Option target="79_World_Search.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/82_Remove_Duplicates_from_Sorted_List_II.cpp">
+			<Option target="82_Remove_Duplicates_from_Sorted_List_II.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/83_Remove_Duplicates_from_Sorted_List.cpp">
+			<Option target="83_Remove_Duplicates_from_Sorted_List.test"/>
+		</Unit>
+		<Unit filename="E:/git_proj/leetcode/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
